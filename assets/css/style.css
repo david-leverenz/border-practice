@@ -1,0 +1,35 @@
+.section-1 {
+    border-width: 25px;
+    border-color: deepskyblue;
+    background-color: blanchedalmond;
+    margin: 50px;
+    color: blue;
+    float: left;
+    width: 700px;
+    padding: 10 20 10 20;
+    display:inline;
+}
+
+.section-2 {
+    border-width: 25px;
+    border-color: deepskyblue;
+    background-color: blue;
+    margin: 10 20 10 20; 
+    color: white; 
+    float: left;
+    width: 200px;
+    padding: 10 20 10 20;
+    display: inline;
+}
+
+.section-3 {
+    border-width: 25px;
+    border-color: deepskyblue;
+    background-color: green;
+    margin: 10 20 10 20; 
+    color: white; 
+    float: right;
+    width: 200px;
+    padding: 30 30 30 30;
+    display: inline;
+}
